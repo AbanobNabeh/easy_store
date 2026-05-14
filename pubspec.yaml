@@ -1,0 +1,20 @@
+name: easy_store
+description: A simple Flutter storage SDK. One unified API for SharedPreferences and SQLite — no boilerplate, no complexity.
+version: 0.0.1
+homepage: https://github.com/AbanobNabeh/easy_store
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.0
+  path: ^1.8.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
