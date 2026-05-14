@@ -1,4 +1,4 @@
-# easy_store
+# easy_store 
 
 <p align="center">
   <img src="https://img.shields.io/badge/pub-v0.0.1-blue" alt="pub version" />
@@ -7,6 +7,7 @@
 </p>
 
 A simple Flutter storage SDK. One unified API for both **SharedPreferences** and **SQLite** — no boilerplate, no complexity.
+https://pub.dev/packages/easy_store
 
 ---
 
